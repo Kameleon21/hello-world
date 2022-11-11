@@ -1,1 +1,1 @@
-First time committing to github
+First time committing to github using linux command line
